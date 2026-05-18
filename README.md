@@ -145,6 +145,8 @@ If you want to study real tools instead of just papers, these are useful startin
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
+- [Everything OpenAI Codex](https://github.com/mturac/everything-openai-codex)
+  An open-source Codex workflow system with agents, skills, commands, hooks, memory patterns, install profiles, and validation checks for repeatable repository-scale coding sessions.
 
 ## Selected Software Engineering Papers
 
