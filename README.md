@@ -145,6 +145,8 @@ If you want to study real tools instead of just papers, these are useful startin
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
+- [agenttrace](https://github.com/luoyuctl/agenttrace)
+  A local CLI/TUI for inspecting AI coding agent session logs across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and similar tools; useful for studying cost, token use, latency, failures, and session health in real workflows.
 
 ## Selected Software Engineering Papers
 
