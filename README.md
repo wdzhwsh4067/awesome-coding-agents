@@ -145,6 +145,8 @@ If you want to study real tools instead of just papers, these are useful startin
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
+- [Ariadne Loop](https://github.com/zhangzeyu99-web/ariadne-loop)
+  A local-first loop-spec and agent-packet tool for making coding-agent work explicit through verifier gates, stop rules, rollback rules, and JSON reports.
 
 ## Selected Software Engineering Papers
 
