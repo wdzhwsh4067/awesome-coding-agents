@@ -145,6 +145,8 @@ If you want to study real tools instead of just papers, these are useful startin
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
+- [ax](https://github.com/Necmttn/ax)
+  Local-first observability and memory graph for AI coding agents, useful for studying session transcripts, tool use, costs, and harness behavior.
 
 ## Selected Software Engineering Papers
 
