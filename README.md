@@ -143,6 +143,8 @@ If you want to study real tools instead of just papers, these are useful startin
   One of the most important open-source references for end-to-end agentic software development workflows.
 - [Aider](https://github.com/Aider-AI/aider)
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
+- [Hephaestus](https://github.com/agentlas-ai/Hephaestus)
+  Local Python runtime for packaging and routing Claude Code, Codex, and Cursor agents with skills, scoped memory, and policy checks.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
 
