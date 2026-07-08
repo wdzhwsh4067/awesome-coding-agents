@@ -143,6 +143,8 @@ If you want to study real tools instead of just papers, these are useful startin
   One of the most important open-source references for end-to-end agentic software development workflows.
 - [Aider](https://github.com/Aider-AI/aider)
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+  Local-first memory lifecycle tooling for coding agents that need project-scoped recall, evidence, redaction, and audit without storing raw transcript dumps.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
 
