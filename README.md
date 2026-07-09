@@ -143,6 +143,8 @@ If you want to study real tools instead of just papers, these are useful startin
   One of the most important open-source references for end-to-end agentic software development workflows.
 - [Aider](https://github.com/Aider-AI/aider)
   A practical terminal-first tool that is especially helpful for studying human-in-the-loop agent workflows.
+- [py_ralph_frame](https://github.com/rxdt/py_ralph_frame)
+  A lightweight spec-driven loop harness for Claude Code, Codex, and Gemini CLI, with fresh-context runs, specs, commits, and verification gates.
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
 
