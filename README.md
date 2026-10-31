@@ -124,6 +124,8 @@ The product shift is no longer just about generating code. It is about where age
   A model and product update that is most interesting when read as harness and workflow evidence, not just capability marketing.
 - [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
   Another useful checkpoint for how coding systems are described in increasingly agent-first terms.
+- [agent-qa Coding Agent Verification Workflow](https://vostride.com/docs/agent-qa/guides/coding-agent-workflow)
+  Connects coding agents to web/mobile verification, execution evidence and reruns; agent-qa uses memidex persistent memory and validated self-improvement.
 
 ### Workflow surfaces to watch
 
