@@ -146,6 +146,9 @@ If you want to study real tools instead of just papers, these are useful startin
 - [SWE-bench](https://github.com/SWE-bench/SWE-bench)
   The official benchmark repository, useful for understanding task construction and evaluation mechanics directly.
 
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+  A self-hosted runtime for running generated code in sandboxes, governing MCP tool access, and replaying agent sessions.
+
 ## Selected Software Engineering Papers
 
 Representative work adjacent to coding agents, with emphasis on repair, testing, verification, and repository-scale software engineering.
